@@ -1,0 +1,12 @@
+\contentsline {chapter}{\numberline {第一章}\hspace {-2.5em}模板的使用说明 \unhbox \voidb@x \cleaders \hbox to.68em{\hss .\hss }\hfill \kern \z@ }{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}背景}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}使用说明}{1}{section.1.2}
+\contentsline {chapter}{\numberline {第二章}\hspace {-2.5em}正文的基本要求 \unhbox \voidb@x \cleaders \hbox to.68em{\hss .\hss }\hfill \kern \z@ }{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}学术名词}{2}{section.2.1}
+\contentsline {section}{\numberline {2.2}公式}{2}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}多行公式示例}{3}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}算法}{4}{section.2.3}
+\contentsline {section}{\numberline {2.4}表格}{4}{section.2.4}
+\contentsline {section}{\numberline {2.5}插图}{5}{section.2.5}
+\contentsline {chapter}{参考文献 \unhbox \voidb@x \cleaders \hbox to.68em{\hss .\hss }\hfill \kern \z@ }{6}{figure.caption.3}
+\contentsline {chapter}{附录A\unhbox \voidb@x \cleaders \hbox to.68em{\hss .\hss }\hfill \kern \z@ }{7}{figure.caption.3}
